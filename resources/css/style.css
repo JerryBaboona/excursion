@@ -26,10 +26,15 @@ a {
 /*Styling for paragraph text*/
 p {
   font-size: 21px;
-  color: grey;
+  color: gray;
 }
 
 /*Image styling*/
 img {
-  padding: 10px
+  padding: 10px;
+}
+
+/*Footer styling*/
+footer {
+  text-align: right;
 }
